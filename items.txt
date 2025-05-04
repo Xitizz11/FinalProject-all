@@ -1,0 +1,6 @@
+items.txt
+Pencil 
+Notebook
+Pen 
+Paper
+stapler
